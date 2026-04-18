@@ -5,8 +5,6 @@ import re
 
 #Load all Excel files from the specified directory
 files = glob.glob("/Users/nedret/Desktop/cw2_data/*.xls*")
-
-#This list will store all processed yearly datasets
 all_data = []
 
 
